@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
- * 给定一个没有重复数字的序列，返回其所有可能的全排列。
+ * 给定�?个没有重复数字的序列，返回其�?有可能的全排列�??
  */
 public class Mid_46_permute {
 	public static void main(String[] args) {

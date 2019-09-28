@@ -6,7 +6,7 @@ import java.util.List;
 import com.test.utils.TreeNode;
 
 /*
- * 给定一个二叉树，返回所有从根节点到叶子节点的路径。
+ * 给定�?个二叉树，返回所有从根节点到叶子节点的路径�??
  */
 public class Easy_257_binaryTreePaths {
 	public static void main(String[] args) {
